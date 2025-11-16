@@ -23,7 +23,7 @@ Try out **Sweet Shop** using the links and demo credentials below:
 - **Demo User:** shadow_voltrex
 - **Password:** 12345678
 
-- **Frontend Repository Link:** [https://github.com/pranshu-tomer/SweetShop-Frontend](https://github.com/pranshu-tomer/SweetShop-Frontend)
+- **Frontend Repository Link:** [https://github.com/reshmeyadav/SweetShop-Frontend](https://github.com/reshmeyadav/SweetShop-Frontend)
 
 ---
 
@@ -83,7 +83,7 @@ Try out **Sweet Shop** using the links and demo credentials below:
 
 1. Clone the backend repository:
 ```
-git clone https://github.com/pranshu-tomer/SweetShop.git
+git clone https://github.com/reshmeyadav/SweetShop.git
 ````
 
 2. Add .env File:
@@ -105,7 +105,7 @@ FRONTEND_URL=""
 1. Clone the frontend repository:
 
    ```sh
-   git clone https://github.com/pranshu-tomer/SweetShop-Frontend
+   git clone https://github.com/reshmeyadav/SweetShop-Frontend
    ```
 
 2. Install dependencies:
