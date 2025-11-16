@@ -83,7 +83,7 @@ Try out **Sweet Shop** using the links and demo credentials below:
 
 1. Clone the backend repository:
 ```
-git clone https://github.com/reshmeyadav/SweetShop.git
+git clone [https://github.com/reshmeyadav/SweetShop.git](https://github.com/reshmeyadav/Sweet-Shop-frontend)
 ````
 
 2. Add .env File:
@@ -105,7 +105,7 @@ FRONTEND_URL=""
 1. Clone the frontend repository:
 
    ```sh
-   git clone https://github.com/reshmeyadav/SweetShop-Frontend
+   git clone https://github.com/reshmeyadav/Sweet-Shop-frontend
    ```
 
 2. Install dependencies:
