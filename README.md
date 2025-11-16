@@ -23,7 +23,7 @@ Try out **Sweet Shop** using the links and demo credentials below:
 - **Demo User:** shadow_voltrex
 - **Password:** 12345678
 
-- **Frontend Repository Link:** [https://github.com/reshmeyadav/SweetShop-Frontend](https://github.com/reshmeyadav/SweetShop-Frontend)
+- **Frontend Repository Link:** [https://github.com/reshmeyadav/Sweet-Shop-frontend](https://github.com/reshmeyadav/Sweet-Shop-frontend)
 
 ---
 
